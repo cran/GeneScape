@@ -1,0 +1,4 @@
+import(MASS)
+import(corpcor)
+importFrom("stats", "pnorm", "qpois", "rbinom", "rgamma", "rlnorm", "rpois")
+export("GeneScape")
